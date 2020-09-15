@@ -3,4 +3,4 @@ Portfólio tutorial
 
 ## Tarefas
 
-O controle das tarefas desse projeto será realizado no GitHub
+o controle das tarefas desse projeto será feito no github
